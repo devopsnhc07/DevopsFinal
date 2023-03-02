@@ -44,7 +44,7 @@ function Footer() {
               </a>
             </div>
             <p className="copyright">
-              Copyright&nbsp;&copy;&nbsp;Nike Shoes Template
+              Copyright&nbsp;&copy;&nbsp;Nike shoe template
             </p>
             <br />
           </div>
